@@ -12,4 +12,7 @@ Modified from "[Open & Close Lock](https://freesound.org/people/BergsteinProd/so
 Modified from "[Wind Rush](https://freesound.org/people/magnuswaker/sounds/563488/)" by [magnuswaker](https://freesound.org/people/magnuswaker/) of Freesound.org CC0 1.0<br>
 "[Indoor Footsteps.wav](https://freesound.org/people/dkiller2204/sounds/366111/)" by [dkiller2204](https://freesound.org/people/dkiller2204/) of Freesound.org CC0 1.0<br>
 "[Fire Auto - car on fire](https://freesound.org/people/florianreichelt/sounds/563765/)" by [florianreichelt](https://freesound.org/people/florianreichelt/) of Freesound.org CC0 1.0<br>
+"[Destruction, Wooden, A.wav](https://freesound.org/people/InspectorJ/sounds/352513/)" by [InspectorJ](https://www.jshaw.co.uk/) of Freesound.org CC BY 4.0<br>
+"[A Plastic-Metal Object hits the Large Concrete Basement Floor.aif](https://freesound.org/people/RutgerMuller/sounds/104053/)" by [RutgerMuller](https://freesound.org/people/RutgerMuller/) of Freesound.org<br>
+"[Turning on the stove clicking sound](https://freesound.org/people/karinalarasart/sounds/483120/)" by [karinalarasart](https://freesound.org/people/karinalarasart/) of Freesound.org<br>
 All other sounds were recorded myself
